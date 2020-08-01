@@ -5,9 +5,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: whitesmoke;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+form {
+  margin: 0 auto;
+  width: 65%;
+  margin-top: 2%;
+}
+
+button {
+  margin: 0 auto;
+  margin: -20px -50px; 
+  position:relative;
+  left:50%;
+}
+
+.cardPlayer {
+  top: 6vh;
 }
