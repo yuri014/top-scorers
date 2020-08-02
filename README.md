@@ -1,4 +1,9 @@
+# top-scorers 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# screenshots 
+![img1](https://user-images.githubusercontent.com/67673409/89112282-ee539900-d436-11ea-8fd3-a735d15ea764.PNG) 
+![img2](https://user-images.githubusercontent.com/67673409/89112301-24911880-d437-11ea-9b33-d998d068fcb6.PNG) 
 
 ## Available Scripts
 
