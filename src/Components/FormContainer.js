@@ -27,7 +27,7 @@ class Form extends Component {
       {
         method: "GET",
         headers: {
-          "X-Auth-Token": "fb6ca21fe4f54a2d8e2c6e30123f2ec1",
+          "X-Auth-Token": "******************************",
         },
       }
     )
